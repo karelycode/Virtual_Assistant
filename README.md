@@ -7,7 +7,7 @@ AUN NO CUENTA CON UNA GUI.
 ## ¿Qué necesito para que AVA funcione?
 Para que AVA funcione necesitas instalar el archivo de requerimientos, lo puedes encontrar en los archivos del programa. Las librerias necesarias son las siguientes:
 
-1. speech_recognition
+1. Speech Recognition
 2. pyttsx3
 3. pywhatkit
 4. wikipedia
